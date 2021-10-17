@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>My E-commerce project</title>
+    <link rel="stylesheet" href="Flipkart.css" />
+    <link rel="stylesheet" href="utis.css" />
+    <link rel="stylesheet" href="responsive.css">
+  </head>
+  <body>
+    <header>
+      <nav>
+        <div class="logo">
+          <img src="flip.png" alt="" />
+        </div>
+        <ul>
+          <li><a href="Home.html">Home</a></li>
+          <li><a href="Contact.html">Contact</a></li>
+          <li><a href="About.html">About</a></li>
+        </ul>
+        <div class="search">
+          <input type="text" name="" id="" placeholder="Search Here" />
+          <button class="btn">search</button>
+        </div>
+      </nav>
+    </header>
+
+    <main>
+      <div class="container">
+        <div class="slider">
+          <img
+            src="https://source.unsplash.com/1200x500/?shopping,ecommerce"
+            alt=""
+          />
+        </div>
+
+        <div class="card">
+          <h2 class="my-2">Join the cricket fun</h2>
+          <div class="cards">
+            <div class="card-item">
+              <img
+                src="https://source.unsplash.com/160x160/?cricket,bats"
+                alt=""
+              />
+
+              <div class="lines">
+                <p class="text-center my-1">Cricket Bats</p>
+                <p class="text-center my-1">Min 20% off</p>
+                <p class="text-center my-1">Grab Now</p>
+              </div>
+            </div>
+
+            <div class="card-item">
+              <img
+                src="https://source.unsplash.com/160x160/?cricket,balls"
+                alt=""
+              />
+
+              <div class="lines">
+                <p class="text-center my-1">Cricket Bats</p>
+                <p class="text-center my-1">Min 20% off</p>
+                <p class="text-center my-1">Grab Now</p>
+              </div>
+            </div>
+            <div class="card-item">
+              <img
+                src="https://source.unsplash.com/160x160/?cricket,stumps"
+                alt=""
+              />
+
+              <div class="lines">
+                <p class="text-center my-1">Cricket Bats</p>
+                <p class="text-center my-1">Min 20% off</p>
+                <p class="text-center my-1">Grab Now</p>
+              </div>
+            </div>
+            <div class="card-item">
+              <img
+                src="https://source.unsplash.com/160x160/?cricket,pads"
+                alt=""
+              />
+
+              <div class="lines">
+                <p class="text-center my-1">Cricket Bats</p>
+                <p class="text-center my-1">Min 20% off</p>
+                <p class="text-center my-1">Grab Now</p>
+              </div>
+            </div>
+            <div class="card-item">
+              <img
+                src="https://source.unsplash.com/160x160/?cricket,glaves"
+                alt=""
+              />
+
+              <div class="lines">
+                <p class="text-center my-1">Cricket Bats</p>
+                <p class="text-center my-1">Min 20% off</p>
+                <p class="text-center my-1">Grab Now</p>
+              </div>
+            </div>
+
+            <div class="card-item">
+                <img
+                  src="https://source.unsplash.com/160x160/?cricket,player"
+                  alt=""
+                />
+  
+                <div class="lines">
+                  <p class="text-center my-1">Cricket Bats</p>
+                  <p class="text-center my-1">Min 20% off</p>
+                  <p class="text-center my-1">Grab Now</p>
+                </div>
+              </div>
+
+              <div class="card-item">
+                <img
+                  src="https://source.unsplash.com/160x160/?cricket,player"
+                  alt=""
+                />
+  
+                <div class="lines">
+                  <p class="text-center my-1">Cricket Bats</p>
+                  <p class="text-center my-1">Min 20% off</p>
+                  <p class="text-center my-1">Grab Now</p>
+                </div>
+            </div>
+          </div>
+      </div>
+      <div class="card">
+        <h2 class="my-2">Furniture Bestsellers</h2>
+        <div class="cards">
+          <div class="card-item">
+            <img
+              src="https://source.unsplash.com/160x160/?furniture,table"
+              alt=""
+            />
+
+            <div class="lines">
+              <p class="text-center my-1">Best Table for computers</p>
+              <p class="text-center my-1">Min 20% off</p>
+              <p class="text-center my-1">Grab Now</p>
+            </div>
+          </div>
+
+          <div class="card-item">
+            <img
+              src="https://source.unsplash.com/160x160/?furniture,chair"
+              alt=""
+            />
+
+            <div class="lines">
+              <p class="text-center my-1">Best chair for office meeting</p>
+              <p class="text-center my-1">Min 20% off</p>
+              <p class="text-center my-1">Grab Now</p>
+            </div>
+          </div>
+          <div class="card-item">
+            <img
+              src="https://source.unsplash.com/160x160/?furniture,beds"
+              alt=""
+            />
+
+            <div class="lines">
+              <p class="text-center my-1">Best Beds</p>
+              <p class="text-center my-1">Min 20% off</p>
+              <p class="text-center my-1">Grab Now</p>
+            </div>
+          </div>
+          <div class="card-item">
+            <img
+              src="https://source.unsplash.com/160x160/?furniture,cabinet"
+              alt=""
+            />
+
+            <div class="lines">
+              <p class="text-center my-1">Best Cabinet</p>
+              <p class="text-center my-1">Min 20% off</p>
+              <p class="text-center my-1">Grab Now</p>
+            </div>
+          </div>
+          <div class="card-item">
+            <img
+              src="https://source.unsplash.com/160x160/?furniture,desks"
+              alt=""
+            />
+
+            <div class="lines">
+              <p class="text-center my-1">Best Desks</p>
+              <p class="text-center my-1">Min 20% off</p>
+              <p class="text-center my-1">Grab Now</p>
+            </div>
+          </div>
+
+          <div class="card-item">
+            <img
+              src="https://source.unsplash.com/160x160/?furniture,bench"
+              alt=""
+            />
+
+            <div class="lines">
+              <p class="text-center my-1">Best Bench</p>
+              <p class="text-center my-1">Min 20% off</p>
+              <p class="text-center my-1">Grab Now</p>
+            </div>
+          </div>
+
+          <div class="card-item">
+            <img
+              src="https://source.unsplash.com/160x160/?furniture,stool"
+              alt=""
+            />
+
+            <div class="lines">
+              <p class="text-center my-1">Best Stool</p>
+              <p class="text-center my-1">Min 20% off</p>
+              <p class="text-center my-1">Grab Now</p>
+            </div>
+          </div>
+        </div>
+    </div>
+    <div class="card">
+        <h2 class="my-2">Mobile Phones</h2>
+        <div class="cards">
+          <div class="card-item">
+            <img
+              src="https://source.unsplash.com/160x160/?phone"
+              alt=""
+            />
+
+            <div class="lines">
+              <p class="text-center my-1">Best Seller</p>
+              <p class="text-center my-1">Min 30% off</p>
+              <p class="text-center my-1">Grab Now</p>
+            </div>
+          </div>
+
+          <div class="card-item">
+            <img
+              src="https://source.unsplash.com/160x160/?phone"
+              alt=""
+            />
+
+            <div class="lines">
+              <p class="text-center my-1">Cricket Bats</p>
+              <p class="text-center my-1">Min 20% off</p>
+              <p class="text-center my-1">Grab Now</p>
+            </div>
+          </div>
+          <div class="card-item">
+            <img
+              src="https://source.unsplash.com/160x160/?phone"
+              alt=""
+            />
+
+            <div class="lines">
+              <p class="text-center my-1">Cricket Bats</p>
+              <p class="text-center my-1">Min 20% off</p>
+              <p class="text-center my-1">Grab Now</p>
+            </div>
+          </div>
+          <div class="card-item">
+            <img
+              src="https://source.unsplash.com/160x160/?phone"
+              alt=""
+            />
+
+            <div class="lines">
+              <p class="text-center my-1">Cricket Bats</p>
+              <p class="text-center my-1">Min 20% off</p>
+              <p class="text-center my-1">Grab Now</p>
+            </div>
+          </div>
+          <div class="card-item">
+            <img
+              src="https://source.unsplash.com/160x160/?phone"
+              alt=""
+            />
+
+            <div class="lines">
+              <p class="text-center my-1">Cricket Bats</p>
+              <p class="text-center my-1">Min 20% off</p>
+              <p class="text-center my-1">Grab Now</p>
+            </div>
+          </div>
+
+          <div class="card-item">
+            <img
+              src="https://source.unsplash.com/160x160/?phone"
+              alt=""
+            />
+
+            <div class="lines">
+              <p class="text-center my-1">Cricket Bats</p>
+              <p class="text-center my-1">Min 20% off</p>
+              <p class="text-center my-1">Grab Now</p>
+            </div>
+          </div>
+          <div class="card-item">
+            <img
+              src="https://source.unsplash.com/160x160/?phone"
+              alt=""
+            />
+
+            <div class="lines">
+              <p class="text-center my-1">Cricket Bats</p>
+              <p class="text-center my-1">Min 20% off</p>
+              <p class="text-center my-1">Grab Now</p>
+            </div>
+          </div>
+        </div>
+    </div>
+    </main>
+
+    <footer class="flex-center">
+      <p>Copyright &copy; MyCart.com</p>
+    </footer>
+  </body>
+</html>
